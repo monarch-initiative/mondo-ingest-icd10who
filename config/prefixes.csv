@@ -4,5 +4,6 @@ rdfs,http://www.w3.org/2000/01/rdf-schema#
 xsd,http://www.w3.org/2001/XMLSchema#
 owl,http://www.w3.org/2002/07/owl#
 obo,http://purl.obolibrary.org/obo/
+oio,http://www.geneontology.org/formats/oboInOwl#
 ICD10WHO,https://icd.who.int/browse10/2019/en#/
 ICD10WHO2010,http://apps.who.int/classifications/icd10/browse/2010/en#/
